@@ -3,22 +3,47 @@
   
   <url>
     <loc>http://duthades.github.io/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://duthades.github.io/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://duthades.github.io/project/example-external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://duthades.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duthades.github.io/project/Analyzing%20and%20Modeling%20of%20Tabla/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duthades.github.io/project/Development%20of%20Autonomous%20Quadcopter/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duthades.github.io/project/Fractals/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duthades.github.io/project/Line%20Tracer%20and%20Obstacle%20Detector/</loc>
+    <lastmod>2014-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duthades.github.io/project/Speed%20water%20Bottle%20Filling%20using%20PLC/</loc>
+    <lastmod>2014-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duthades.github.io/project/Automatic%20Plant%20Watering%20System%20And%20Water%20tank%20level%20regulator%20using%20PLC/</loc>
+    <lastmod>2014-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://duthades.github.io/project/Automatic%20Plant%20Watering%20System%20using%20timers/</loc>
+    <lastmod>2013-09-27T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
