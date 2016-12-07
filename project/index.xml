@@ -7,8 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sanket Duthade</copyright>
-    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://duthades.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>plotFractals</title>
+      <link>http://duthades.github.io/project/Fractals/</link>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://duthades.github.io/project/Fractals/</guid>
+      <description>
+
+&lt;h3 id=&#34;fractal-tree&#34;&gt;Fractal Tree&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/duthades/plotFractals/master/img/fractalTree.png&#34; alt=&#34;alt tag&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;t-square-fractal&#34;&gt;T-square fractal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/duthades/plotFractals/master/img/T_Square.png&#34; alt=&#34;alt tag&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sierpinski-triangle-fractal&#34;&gt;Sierpinski triangle fractal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/duthades/plotFractals/master/img/sierpinskiTriangle.png&#34; alt=&#34;alt tag&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;nested-triangle-fractal&#34;&gt;Nested Triangle fractal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/duthades/plotFractals/master/img/nestedTriangle.png&#34; alt=&#34;alt tag&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;nested-square-fractal&#34;&gt;Nested square fractal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/duthades/plotFractals/master/img/nestedSquare.png&#34; alt=&#34;alt tag&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;uniform-mass-center-triangle-fractal&#34;&gt;Uniform Mass Center Triangle Fractal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/duthades/plotFractals/master/img/uniformMass.png&#34; alt=&#34;alt tag&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Analyzing and Modeling of Tabla</title>
@@ -25,15 +59,6 @@
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://duthades.github.io/project/Development%20of%20Autonomous%20Quadcopter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plotting Fractals with the help of Matplotlib library in Python</title>
-      <link>http://duthades.github.io/project/Fractals/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://duthades.github.io/project/Fractals/</guid>
       <description></description>
     </item>
     
